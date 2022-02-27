@@ -1,16 +1,10 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "text": "Meeting at school",
+      "day": "Feb 6th at 12:30pm",
+      "reminder": true
     }
   ]
 }
